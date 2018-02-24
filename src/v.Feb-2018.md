@@ -1,0 +1,77 @@
+# JavaScript Top 10 Open Source Projects (v.Feb 2018)
+
+<img src="feb-javascript-open-source.png" width="800" alt="Mybridge"></a>
+
+For the past month, we ranked nearly 250 JavaScript Open Source Projects to pick the Top 10. 
+We compared projects with new or major release during this period. Mybridge AI ranks projects based on a variety of factors to measure its quality for professionals.
+
+* Average number of Github stars in this edition: 2,843 ⭐️
+* Topics: Stimulus, Webpack Dashboard, Web Audio, Web Worker, Emulator, Installer, Objects, Image, Karma
+
+Open source projects can be useful for programmers. Hope you find an interesting project that inspires you.
+
+<br>
+
+### Course of the month:
+
+[Modern JavaScript From The Beginning: Learn and build projects with pure JavaScript (No frameworks or libraries)](http://bit.ly/2E3RHNo) [6,217 recommends, 4.8/5 stars]
+
+<br>
+
+## Rank 1
+### [Stimulus: A modest JavaScript framework for the HTML you already have [v.1.0] [★4793]](https://github.com/stimulusjs/stimulus?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 2
+### [Jarvis: A very intelligent browser based Webpack dashboard [★4274]](https://github.com/zouhir/jarvis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 3
+### [Winamp2-js: A reimplementation of Winamp 2.9 in HTML5 and Javascript [★5575]](https://github.com/captbaritone/winamp2-js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 4
+### [Greenlet: Move an async function into its own thread. [★3060]](https://github.com/developit/greenlet?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 5
+### [Jsnes: A JavaScript NES emulator. [v. 1.0] [★3503]](https://github.com/bfirsh/jsnes?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 6
+### [Workerize: run a module in a web worker. [★2599]](https://github.com/developit/workerize?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 7
+### [Jsvu: JavaScript (engine) Version Updater [★469]](https://github.com/GoogleChromeLabs/jsvu?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 8
+### [JavaScript Object Explorer: Find the object method you need without digging through the docs [★893]](https://github.com/sdras/object-explorer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 9
+### [JSpaint: classic mspaint, revived [★3260]](https://github.com/1j01/jspaint?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 10
+### [Karmatic: Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.  [★982]](https://github.com/developit/karmatic?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
